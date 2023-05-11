@@ -28,9 +28,10 @@ Nos encanta trabajar con la comunidad y recibir contribuciones. Si tienes alguna
 3. Realiza los cambios necesarios y asegúrate de que los tests pasen correctamente.
 4. Realiza una solicitud de extracción a la rama `develop`.
 5. Espera a que un miembro del equipo revise y apruebe tu cambio.
--->
+
 ## Contacto
 
 Si tienes alguna duda o comentario, no dudes en contactarnos a través de nuestro correo electrónico `sector.siit@gmail.com`.
 
 ¡Gracias por visitar nuestro repositorio!
+-->
